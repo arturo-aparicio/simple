@@ -1,0 +1,4 @@
+github.com/jfrogsolutionci/dog v1.0.0 h1:h0r5lmftVzczGhVEM2n3+h35wOGmnomDc1vO2f4/zOk=
+github.com/jfrogsolutionci/dog v1.0.0/go.mod h1:1yPo5btEexu08zfil4nwSf5oMAykabBEtyhXoGGD93A=
+golang.org/x/net v0.0.0-20190110200230-915654e7eabc h1:Yx9JGxI1SBhVLFjpAkWMaO1TF+xyqtHLjZpvQboJGiM=
+golang.org/x/net v0.0.0-20190110200230-915654e7eabc/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
