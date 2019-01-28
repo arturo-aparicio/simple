@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jfrog-solutiontest/dog/dog"
+	"github.com/jfrog-aparicio/dog/dog"
         "golang.org/x/net/context"
 )
 
