@@ -8,8 +8,8 @@ import (
 
 func main () {
 	fmt.Println ("Package Name: akita")
-	dog.dog.AkitaPackageName()
-	dog.dog.ColliePackageName()
+	dog.AkitaPackageName()
+	dog.ColliePackageName()
         type Context = context.Context
         type CancelFunc = context.CancelFunc
 }
